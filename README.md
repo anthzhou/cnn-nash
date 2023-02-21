@@ -7,7 +7,7 @@ In this work, we seek to reduce the computational cost by using a simple hillcli
 the learning process via knowledge transfer [[arXiv]](https://arxiv.org/abs/1511.05641).
 
 ## Requirements
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## Run
 Open the main.py file to modify the different function which should be called. <br>

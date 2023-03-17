@@ -5,10 +5,3 @@ This repository contains all the code concerning my Master Thesis on Convolution
 
 In this work, we seek to reduce the computational cost by using a simple hillclimbing [[arXiv]](https://arxiv.org/abs/1711.04528) and accelerate
 the learning process via knowledge transfer [[arXiv]](https://arxiv.org/abs/1511.05641).
-
-## Requirements
-`pip install -r requirements.txt`
-
-## Run
-Open the main.py file to modify the different function which should be called. <br>
-`python main.py`
